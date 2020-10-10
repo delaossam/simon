@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="de">
   <head>
     <h1>Die beste Seite der Welt</h1>
