@@ -7,7 +7,7 @@
   		<h1 align="center">Willkommen</h1>
   	</div>
   	<div>
-  		<h3 align="center">Hier kannst du so schnell wie nie zufor einen passenden Urlaubsort finden.</h3>
+  		<h3 align="center">Hier kannst du so schnell wie nie vorher einen passenden Urlaubsort finden.</h3>
   	</div>
     <table border="0" cellpadding="4" width="1200">
       <tr>
