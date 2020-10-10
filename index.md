@@ -1,8 +1,6 @@
 <html lang="de">
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Die beste Seite der Welt</title>
+    <h1>Die beste Seite der Welt</h1>
   </head>
   <body>
   	<div>
