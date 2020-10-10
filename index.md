@@ -28,6 +28,7 @@
            <input type="radio" name="r1"  onclick="alert('Gute Entscheidung...')" value="Nein">Nein<br>
            <input type="radio" name="r1"  onclick="alert('Ja oder Nein?')" value="Vielleicht">Vielleicht<br>
            <button onclick="alert('Äähhh... Nö :^)')">Hier gehts zu Bildern vom Hotel</button>
+	   <button onclick="alert('Äähhh... Nö :^)')">Hier gehts zu Bildern vom Hotel</button>	   
          </div>  
         </td>
       </tr>
