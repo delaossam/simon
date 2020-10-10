@@ -1,7 +1,6 @@
   <head>
     <h1>Die beste Seite der Welt</h1>
   </head>
-  <body>
   	<div>
   		<h1 align="center">Willkommen</h1>
   	</div>
@@ -34,4 +33,4 @@
       </tr>
     </table>
    
-  </body>
+
