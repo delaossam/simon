@@ -21,7 +21,7 @@
           <h4>
             Dieser Strand ist etwas ganz besonderes da er so schön und so blau ist.<br>
             Er ist in Sardinien.<br>
-            Hinter ihm haust eine sehr hässlige Hotelanlage.
+            Hinter ihm haust eine sehr hässliche Hotelanlage.
           </h4>
           <p> Würdest du gerne in der Hotelanlage wohnen?<br>
           <input type="radio" name="r1"  onclick="alert('Du Umweltverschmutzer!')" value="Ja">Ja<br>
