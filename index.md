@@ -29,6 +29,7 @@
         <button onclick="alert('Äähhh... Nö :^)')">
           Hier gehts zu Bildern vom Hotel.
         </button>
+          </div>  
         </td>
       </tr>
     </table>
