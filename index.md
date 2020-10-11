@@ -21,9 +21,9 @@
              </p>
              <select name="Anreise" size="5" onchange="alert(this.form.Anreise.options[this.form.Anreise.selectedIndex].value)">
                <option value="Gut, sehr Umweltfreundlich.">mit dem Zug</option>
-               <option value="Du CO2 Schleuder">mit dem Schiff</option>
+               <option value="Du CO2 Schleuder!">mit dem Schiff</option>
                <option value="Schäm dich!">mit dem Auto</option>
-               <option value="Ist das dein Ernst?Dafür wirst du büßen müssen!">mit dem Flugzeug</option>
+               <option value="Ist das dein Ernst?<br<Dafür wirst du büßen müssen!">mit dem Flugzeug</option>
                <option value="Du bist auf dem richtigen Weg!">mit dem Bus</option>
              </select>
             </form>
