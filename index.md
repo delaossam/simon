@@ -27,5 +27,5 @@
                <option value="Du bist auf dem richtigen Weg!">mit dem Bus</option>
              </select>
             </form>
-            <button onclick="alert('Du hast echt Hoffnungen das es noch ein zweites Hotel zur Auswahl gibt...')">Hier gehts zu weiteren möglichen Hotels>
+            <button onclick="alert('Du hast echt Hoffnungen das es noch ein zweites Hotel zur Auswahl gibt...')">Hier gehts zu weiteren möglichen Hotels
             </button>
