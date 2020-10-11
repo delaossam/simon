@@ -1,12 +1,22 @@
 <head>
   <h1>Die beste Seite der Welt</h1>
 </head>
+<style type="text/css">
+ div{background-color: lightgreen}
+ div.willkommen{background-color: yellow}
+  div.bildbackground {background-color: purple}
+  option{background-color: lightblue}
+h1,div{font-family: calibri}
+</style>
 <body>
-		<h1 align="center">Willkommen</h1>
+  <div class="willkommen">
+ <h1 align="center">Willkommen</h1>
 		<h3 align="center">Hier kannst du so schnell wie nie vorher einen passenden Urlaubsort finden.</h3>
+    <div class="bildbackground">
            <img src="bild1.jpg" width="550" height="750">
-           <h4>
-             Dieser Strand ist etwas ganz besonderes da er so schön und so blau ist.<br>
+         </div>
+           <div>
+           <h4>Dieser Strand ist etwas ganz besonderes da er so schön und so blau ist.<br>
              Er ist in Sardinien.<br>
              Hinter ihm haust eine sehr hässliche Hotelanlage.
            </h4>
@@ -27,5 +37,9 @@
                <option value="Du bist auf dem richtigen Weg!">mit dem Bus</option>
              </select>
             </form>
+
+             <input type="text" name="r1"  onblur="alert('Du Geizhals')" value="">Wie viel willst Du zahlen?<br><br>
             <button onclick="alert('Du hast echt Hoffnungen das es noch ein zweites Hotel zur Auswahl gibt...')">Hier gehts zu weiteren möglichen Hotels
             </button>
+ </div>
+ </div>
