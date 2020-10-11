@@ -41,5 +41,3 @@ h1,div{font-family: calibri}
              <input type="text" name="r1"  onblur="alert('Du Geizhals')" value="">Wie viel willst Du zahlen?<br><br>
             <button onclick="alert('Du hast echt Hoffnungen das es noch ein zweites Hotel zur Auswahl gibt...')">Hier gehts zu weiteren möglichen Hotels
             </button>
- </div>
- </div>
